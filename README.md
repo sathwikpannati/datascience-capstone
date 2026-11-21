@@ -47,7 +47,7 @@ Models were tuned with 10-fold cross-validation (`GridSearchCV`) and evaluated o
 ## Project structure
 
 ```
-datascience-capstone/
+spacex-falcon9-landing-prediction/
 ├── notebooks/
 │   ├── 01_data_collection_api.ipynb
 │   ├── 02_data_collection_web_scraping.ipynb
@@ -65,8 +65,8 @@ datascience-capstone/
 ## How to run
 
 ```bash
-git clone https://github.com/sathwikpannati/datascience-capstone.git
-cd datascience-capstone
+git clone https://github.com/sathwikpannati/spacex-falcon9-landing-prediction.git
+cd spacex-falcon9-landing-prediction
 pip install -r requirements.txt
 
 # Notebooks
